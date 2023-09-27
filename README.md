@@ -40,4 +40,4 @@ Have fun! 🤗.
 GNU GENERAL PUBLIC LICENSE.md
 
 ## About the author
-@nguyendinhat 🇻🇳 Coder Vietnam Group
+@nguyendinhat 🇻🇳
